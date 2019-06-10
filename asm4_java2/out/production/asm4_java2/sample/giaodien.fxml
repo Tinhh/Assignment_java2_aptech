@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="245.0" prefWidth="422.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.dongho">
+   <children>
+      <TextArea fx:id="txtdongho" layoutX="34.0" layoutY="36.0" prefHeight="173.0" prefWidth="220.0" />
+      <Button layoutX="294.0" layoutY="65.0" mnemonicParsing="false" onAction="#dongho" prefHeight="109.0" prefWidth="98.0" text="-- Bấm -- " />
+   </children>
+</Pane>
